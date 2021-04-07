@@ -14,4 +14,5 @@ folder itself to github or Intranet.
 global.css
 public folder is for keeping files essential for building user-interface (client-side)
 
+https://github.com/Farrukh51/hrApplication1.git     
 https://farrukh-hrapplication1.netlify.app/
